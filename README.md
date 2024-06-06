@@ -1,4 +1,3 @@
-## Hi there 👋
 
 👋 Hey there, World!
 👀 Focusing on Swift and iOS development!
