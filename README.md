@@ -1,6 +1,6 @@
 
-👋 Hey there, World!
-👀 Focusing on Swift and iOS development!
-🍀 Learning new things every day..
+- 👋 Hey there, World!
+- 👀 Focusing on Swift and iOS development!
+- 🍀 Learning new things every day..
 
 
