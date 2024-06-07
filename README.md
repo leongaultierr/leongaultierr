@@ -9,7 +9,7 @@ ___________________________________________
 - **Languages**: Swift
 - **Frameworks**: SwiftUI, Core Data
 - **Tools**: Xcode, Git, GitHub
-- **Project Management and Workflow**: Agile, Scrum
+- **Project Management**: Agile, Scrum
 - **Testing**: XCTest, Unit Testing, UI Testing
 - **Design**: Auto Layout, Storyboards, Sketch, Figma
 - **APIs**: RESTful APIs, Firebase, Alamofire
