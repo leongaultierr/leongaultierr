@@ -20,3 +20,5 @@ ____________________________________________
 - [`twitter`](https://x.com/leon_gaultier)
 - [`linkedin`](https://linkedin.com/in/example)
 - [`website`](https://example.com)
+
+- [![twitter](https://github.com/leongaultierr/leongaultierr/blob/main/twitter-logo.png)](https://x.com/leon_gaultier)
