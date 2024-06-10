@@ -18,3 +18,4 @@ ____________________________________________
 
 ### Social
 - [twitter](https://x.com/leon_gaultier)
+- - <a href="https://x.com/leon_gaultier" style="font-family: 'Roboto Mono', monospace;">twitter</a>
