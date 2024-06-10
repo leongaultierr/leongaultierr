@@ -21,4 +21,6 @@ ____________________________________________
 - [`linkedin`](https://linkedin.com/in/example)
 - [`website`](https://example.com)
 
-- [![twitter](https://github.com/leongaultierr/leongaultierr/blob/main/twitter-logo.png)](https://x.com/leon_gaultier)
+‹a href="https://x.com/leon_gaultier"><img src="assets/twitter.png" alt="Twitter" width="35" height="35"></a>
+‹a href="https://linkedin.com/in/leon_gaultier"><img src="assets/linkedin.png" alt="LinkedIn" width="35" height="35"></a>
+‹a href="https://yourwebsite.com"><img src="assets/website.png" alt="Website" width="35" height="35"></a>
