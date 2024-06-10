@@ -18,4 +18,5 @@ ____________________________________________
 
 ### Social
 - [`twitter`](https://x.com/leon_gaultier)
-- <a href="https://x.com/leon_gaultier" style="font-family: monospace; background-color: transparent; text-decoration: none;">`twitter`</a>
+- [`linkedin`](https://linkedin.com/in/example)
+- [`website`](https://example.com)
