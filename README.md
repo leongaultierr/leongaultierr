@@ -13,3 +13,8 @@ ___________________________________________
 - **Testing**: XCTest, Unit Testing, UI Testing
 - **Design**: Auto Layout, Storyboards, Sketch, Figma
 - **APIs**: RESTful APIs, Firebase, Alamofire
+
+____________________________________________
+
+### Social
+- [twitter](https://x.com/leon_gaultier)
