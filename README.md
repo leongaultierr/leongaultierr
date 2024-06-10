@@ -17,4 +17,4 @@ ___________________________________________
 ____________________________________________
 
 ### Social
-- [twitter](https://x.com/leon_gaultier)
+- [`twitter`](https://x.com/leon_gaultier)
