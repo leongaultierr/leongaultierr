@@ -16,7 +16,7 @@ ___________________________________________
 
 ____________________________________________
 
-<p align="center">
+<p align="left">
   <a href="https://linkedin.com/in/leon_gaultier"><img src="assets/linkedin1.svg" alt="LinkedIn" width="30" height="30"></a>
   <a href="https://instagram.com/in/leon_gaultier"><img src="assets/instagram1.svg" alt="Instagram" width="30" height="30"></a>
   <a href="https://x.com/leon_gaultier"><img src="assets/x2.svg" alt="Twitter" width="30" height="30"></a>
