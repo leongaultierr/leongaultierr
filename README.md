@@ -11,7 +11,7 @@ ___________________________________________
 - **Tools**: Xcode, Git, GitHub
 - **Project Management**: Agile, Scrum
 - **Testing**: XCTest, Unit Testing, UI Testing
-- **Design**: Auto Layout, Storyboards, Sketch, Figma
+- **Design**: Auto Layout, Sketch, Figma
 - **APIs**: RESTful APIs, Firebase, Alamofire
 
 ____________________________________________
