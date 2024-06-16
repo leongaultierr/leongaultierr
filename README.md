@@ -17,11 +17,11 @@ ___________________________________________
 ____________________________________________
 
 <p align="center">
-  <a href="https://linkedin.com/in/leon_gaultier"><img src="assets/linkedin1.svg" alt="LinkedIn" width="20" height="20"></a>
-  <a href="https://instagram.com/in/leon_gaultier"><img src="assets/instagram1.svg" alt="Instagram" width="20" height="20"></a>
-  <a href="https://x.com/leon_gaultier"><img src="assets/x2.svg" alt="Twitter" width="20" height="20"></a>
+  <a href="https://linkedin.com/in/leon_gaultier"><img src="assets/linkedin1.svg" alt="LinkedIn" width="25" height="25"></a>
+  <a href="https://instagram.com/in/leon_gaultier"><img src="assets/instagram1.svg" alt="Instagram" width="25" height="25"></a>
+  <a href="https://x.com/leon_gaultier"><img src="assets/x2.svg" alt="Twitter" width="25" height="25"></a>
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leongaultierr)](https://github.com/anuraghazra/github-readme-stats_icons=true&theme=tokyonight)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leongaultierr)](https://github.com/anuraghazra/github-readme-stats)
 
 
