@@ -22,6 +22,6 @@ ____________________________________________
   <a href="https://x.com/leon_gaultier"><img src="assets/x2.svg" alt="Twitter" width="20" height="20"></a>
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leongaultierr)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leongaultierr)](https://github.com/anuraghazra/github-readme-stats_icons=true&theme=tokyonight)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+
