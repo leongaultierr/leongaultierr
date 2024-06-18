@@ -1,7 +1,10 @@
 
-- 👋 Hey there, World!
-- 👀 Focusing on Swift and iOS development!
-- 🍀 Learning new things every day..
+<h1 align="center">
+  <a href="https://github.com/leongaultierr">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF5733&center=true&vCenter=true&width=500&height=70&lines=👋+Hey+there,+World!;👀+Focusing+on+Swift+and+iOS+development!;🍀+Learning+new+things+every+day." alt="Typing SVG">
+  </a>
+</h1>
+
 
 ___________________________________________
 
