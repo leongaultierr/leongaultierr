@@ -1,5 +1,4 @@
  <h1 align="center" style="font-family: 'Fira Code', monospace; color: #D44DBBFF; font-size: 25px; font-weight: bold;">Léon Gaultier</h1>
-
 <h3 align="center">
   <a href="https://github.com/your-username">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=D44DBBFF&center=true&vCenter=true&width=600&height=70&lines=Hey+there,+World!;Focusing+on+Swift+and+iOS+development!;Learning+new+things+every+day..." alt="Typing SVG">
