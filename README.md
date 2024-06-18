@@ -1,3 +1,4 @@
+<h1 align="center" style="font-family: 'Fira Code', monospace; color: #D44DBBFF; font-size: 25px; font-weight: bold;">Léon Gaultier</h1>
 
 <h3 align="center">
   <a href="https://github.com/your-username">
