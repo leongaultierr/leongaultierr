@@ -12,7 +12,7 @@
 
 ___________________________________________
 
-### My Stack
+### Tech Stack
 - **Languages**: Swift
 - **Frameworks**: SwiftUI, Core Data
 - **Tools**: Xcode, Git, GitHub
