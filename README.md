@@ -18,7 +18,7 @@ ___________________________________________
 - **Tools**: Xcode, Git, GitHub
 - **Project Management**: Agile, Scrum
 - **Testing**: XCTest, Unit Testing, UI Testing
-- **Design**: Auto Layout, Sketch, Figma
+- **Design**: Sketch, Figma
 - **APIs**: RESTful APIs, Firebase, Alamofire
 
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
